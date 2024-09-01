@@ -6,3 +6,6 @@ El caso de uso planteado es el siguiente: Crear un proyecto de mensajería asinc
 Lenguaje: Java
 
 El objetivo es implementar un Productor y un Consumidor.
+
+GitHub: https://github.com/suarezrd/TallerRabbitMQ3
+
